@@ -1,0 +1,368 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px 9px;
+}
+
+.header__logo {
+  max-width: 100%;
+  border-style: none;
+  height: 24px;
+}
+
+.header__menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header__link {
+  padding: 10px 21px;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  color: #1C1C1C;
+}
+
+.button {
+  padding: 11px 34px 15px 34px;
+  background-color: #6F2CFF;
+  color: #fff;
+  border: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  border-radius: 20px;
+}
+
+.hero {
+  padding-left: 115px;
+  height: 695px;
+  display: flex;
+  align-items: center;
+  background-image: url("../img/Fontqubit.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero__content {
+  max-width: 470px;
+}
+
+.hero__content_subtitle {
+  margin: 0;
+  margin-bottom: 19px;
+}
+
+.content {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+}
+
+.hero__title {
+  margin: 0;
+  margin-bottom: 37px;
+}
+
+.title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 61px;
+}
+
+.title_purple {
+  margin: 0;
+  line-height: 54px;
+  color: #6F2DFF;
+}
+
+.hero__content_description {
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+.content__description {
+  max-width: 438px;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.hero__form {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.input-button__input {
+  padding: 13px 40px 11px 26px;
+  border: 1px solid #6F2CFF;
+  border-radius: 27.5px 0px 0px 27.5px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+}
+
+.button_left-sliced {
+  margin-left: -5px;
+  padding: 13px 45px 11px 45px;
+  border: 1px solid #6F2CFF;
+  border-radius: 0px 27.5px 27.5px 0px;
+  font-size: 15px;
+  line-height: 21px;
+}
+
+.brands {
+  height: 284px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.brands__title {
+  margin: 0;
+  margin-bottom: 29px;
+  display: flex;
+  justify-content: center;
+}
+
+.title-small {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  color: #1C1C1C;
+}
+
+.brands-logo {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.brands__link {
+  display: flex;
+  justify-content: center;
+}
+
+.title-small__link {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 24px;
+  border-bottom: 2px solid #6F2DFF;
+}
+
+.statistics {
+  margin: 0 30px 0 30px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.statistics__number {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.statistics__demo {
+  padding: 177px 219px 185px 70px;
+}
+
+.title-statistics {
+  margin: 0;
+  margin-bottom: 58px;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.statistics__form {
+  margin: 0;
+  margin-bottom: 56px;
+  min-width: 500px;
+  flex-wrap: nowrap;
+}
+
+.statistics__link {
+  margin: 0;
+  margin-left: 22px;
+  display: inline-flex;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  color: #1C1C1C;
+  border-bottom: 2px solid #6F2DFF;
+}
+
+.statistics__pwc {
+  margin: 0;
+  margin-bottom: 7px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.statistics__report {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 1px solid #000000;
+}
+
+.statistics__pozitive {
+  min-height: 220px;
+  margin: 0;
+  padding-top: 8px;
+  padding-left: 17px;
+  border-left: 1px solid #E0E0E0;
+}
+
+.statistics__titlePozitive {
+  margin: 0;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.stastistics__descriptionPozitive {
+  margin: 0;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.commerce {
+  padding: 94px 174px 91px 170px;
+  text-align: center;
+}
+
+.commerce__title {
+  margin: 0;
+  margin-bottom: 22px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.commerce__way {
+  margin: 0;
+  margin-bottom: 60px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.commerce__benefits {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 77px;
+}
+
+.commerce__titleBenefits {
+  margin: 0;
+  margin-top: 45px;
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 23px;
+}
+
+.commerce__descriptionBenefist {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.tool {
+  padding: 94px 222px 101px 222px;
+  text-align: center;
+  background: #F5F5F5;
+}
+
+.tool__title {
+  margin: 0;
+  margin-bottom: 28px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.tool__description {
+  margin: 0;
+  margin-bottom: 90px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.tool__button {
+  margin-top: 76px;
+  display: flex;
+  justify-content: center;
+}
+
+.tool__button-left {
+  padding: 11px 45px 14px 45px;
+  background: #6F2CFF;
+  border: none;
+  border-radius: 30px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #FFFFFF;
+  margin-right: 22px;
+}
+
+.toll__button-right {
+  padding: 11px 45px 14px 45px;
+  border: none;
+  border-radius: 30px;
+  background: #FFF;
+  color: #6F2CFF;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.proposal {
+  padding: 94px 220px 220px 218px;
+  text-align: center;
+}
+
+.proposal__title {
+  margin: 0;
+  margin-bottom: 62px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.proposal__list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 110px;
+}
+
+.proposal__titleList {
+  margin-top: 10px;
+  margin-bottom: 11px;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 45px;
+}
+
+.proposal__descriptionList {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #1C1C1C;
+}
