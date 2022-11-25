@@ -1,0 +1,25 @@
+.button {
+  background-color: #6F2CFF;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  padding: 11px 34px 15px 34px;
+}
+
+.button_left-sliced {
+  padding: 13px 45px 11px 45px;
+  border-radius: 0px 27.5px 27.5px 0px;
+  border: 1px solid #6F2CFF;
+  font-size: 15px;
+  line-height: 21px;
+  margin-left: -5px;
+}
+
+.button_statistics {
+  padding: 11px 45px 14px 45px;
+  font-size: 15px;
+  line-height: 15px;
+}

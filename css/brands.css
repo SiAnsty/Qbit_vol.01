@@ -1,0 +1,24 @@
+.brands {
+  height: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.brands__title {
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+
+.brands__logo {
+  margin-bottom: 24px;
+}
+
+.brands__link {
+  margin-bottom: 20px;
+}
+
+.brands__img {
+  margin: 0 30px;
+}

@@ -1,0 +1,20 @@
+.link {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1C1C1C;
+  border-bottom: 2px solid #6F2DFF;
+}
+
+.link_small {
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.link_black {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  color: #000;
+}

@@ -1,0 +1,20 @@
+.text {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  color: #000;
+}
+
+.text_subtitle {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.text_pwc {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.text_column {
+  line-height: 22px;
+}

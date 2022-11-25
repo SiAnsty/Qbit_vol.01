@@ -1,0 +1,33 @@
+.statistics {
+  height: 660px;
+  margin: 80px 100px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.statistics__number {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.statistics__demo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.statistics__form {
+  margin-top: 58px;
+  margin-bottom: 56px;
+}
+
+.statistics__button {
+  margin-right: 22px;
+}
+
+.statistics__colum {
+  border-left: 1px solid #E0E0E0;
+  padding-left: 17px;
+}
