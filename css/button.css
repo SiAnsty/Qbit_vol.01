@@ -4,9 +4,9 @@
   border-radius: 20px;
   color: #fff;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 14px;
-  padding: 11px 34px 15px 34px;
+  font-size: 15px;
+  line-height: 15px;
+  padding: 11px 45px 14px 45px;
 }
 
 .button_left-sliced {
@@ -16,4 +16,9 @@
   font-size: 15px;
   line-height: 21px;
   margin-left: -5px;
+}
+
+.button_white {
+  background-color: #fff;
+  color: #6F2CFF;
 }

@@ -1,0 +1,25 @@
+.proposal {
+  height: 751px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.proposal__list {
+  margin-top: 0;
+  margin-bottom: 220px;
+  padding: 0 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 100px;
+  text-align: center;
+}
+
+.proposal__title {
+  padding-top: 94px;
+  padding-bottom: 60px;
+}
+
+.proposal__img {
+  margin-bottom: 14px;
+}
