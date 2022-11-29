@@ -11,19 +11,24 @@
   color: #6F2DFF;
 }
 
-.title_small {
+.title_size_s {
   font-size: 18px;
   line-height: 30px;
   color: #1C1C1C;
 }
 
-.title_second {
+.title_size_l {
   font-size: 40px;
   line-height: 45px;
   color: #1C1C1C;
 }
 
-.title_third {
+.title_size_l_black {
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.title_size_m {
   font-size: 19px;
   line-height: 23px;
 }

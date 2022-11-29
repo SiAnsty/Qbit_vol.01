@@ -5,16 +5,16 @@
   color: #000;
 }
 
-.text_subtitle {
+.text_size_m {
   font-size: 18px;
   line-height: 30px;
 }
 
-.text_pwc {
+.text_size_s {
   font-size: 15px;
   line-height: 30px;
 }
 
-.text_column {
+.text_in-column {
   line-height: 22px;
 }
