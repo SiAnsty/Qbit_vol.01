@@ -18,3 +18,9 @@
   line-height: 15px;
   color: #000;
 }
+
+.link_white {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}

@@ -19,6 +19,10 @@
   line-height: 22px;
 }
 
+.text_in-column_white {
+  color: #fff;
+}
+
 .text_purple {
   margin: 0;
   font-weight: 700;
