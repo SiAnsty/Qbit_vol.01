@@ -18,3 +18,9 @@
 .text_in-column {
   line-height: 22px;
 }
+
+.text_purple {
+  margin: 0;
+  font-weight: 700;
+  color: #6F2CFF;
+}

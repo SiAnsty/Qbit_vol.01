@@ -1,0 +1,44 @@
+.trust {
+  height: 751px;
+  background-color: #F5F5F5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.trust__vector {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 27px 1fr 27px;
+  align-items: center;
+}
+
+.trust__column {
+  padding: 0 13px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+.trust__title {
+  margin-top: 88px;
+  margin-bottom: 75px;
+}
+
+.trust__box {
+  width: 320px;
+  height: 233px;
+  background-color: #fff;
+  margin-top: -5px;
+  border-radius: 0px 0px 7px 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.trust__logo {
+  margin: 25px 0;
+}
