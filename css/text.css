@@ -19,6 +19,11 @@
   line-height: 22px;
 }
 
+.text_size_xxs {
+  font-size: 13px;
+  line-height: 30px;
+}
+
 .text_white {
   color: #fff;
 }
