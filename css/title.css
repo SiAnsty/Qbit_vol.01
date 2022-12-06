@@ -17,7 +17,7 @@
   color: #1C1C1C;
 }
 
-.title_size_s_white {
+.title_white {
   line-height: 25px;
   color: #fff;
 }
@@ -28,9 +28,8 @@
   color: #1C1C1C;
 }
 
-.title_size_l_black {
-  font-size: 40px;
-  line-height: 45px;
+.title_black {
+  color: #000;
 }
 
 .title_size_m {
