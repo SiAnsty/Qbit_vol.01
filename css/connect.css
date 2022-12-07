@@ -1,0 +1,27 @@
+.connect {
+  margin: 0;
+  background-color: #F5F5F5;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 102px;
+  align-items: center;
+  padding: 0 90px 0 110px;
+}
+
+.connect__content {
+  width: 588px;
+}
+
+.connect__title {
+  margin-bottom: 47px;
+}
+
+.connect__text-first {
+  margin: 0;
+  margin-bottom: 11px;
+}
+
+.connect__text-second {
+  margin: 0;
+  margin-bottom: 74px;
+}
