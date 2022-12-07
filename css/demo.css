@@ -1,0 +1,15 @@
+.demo {
+  background-image: url("../img/demo.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 93px;
+  padding-bottom: 107px;
+}
+
+.demo__title {
+  margin-bottom: 37px;
+}
