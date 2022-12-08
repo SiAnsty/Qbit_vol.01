@@ -1,0 +1,32 @@
+.footer {
+  background-color: #20003C;
+  padding: 57px 158px 82px 110px;
+}
+
+.footer__column {
+  margin: 0;
+  padding: 0;
+  padding-left: 37px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 25px;
+}
+
+.footer__title {
+  margin-bottom: 30px;
+}
+
+.footer__link {
+  margin-bottom: 11px;
+}
+
+.footer__link_special {
+  margin-top: 51px;
+}
+
+.footer__logo {
+  margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
