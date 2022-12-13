@@ -23,3 +23,10 @@
   color: #fff;
   border-bottom: 2px solid #fff;
 }
+
+.link_size_m {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  border-bottom: none;
+}
